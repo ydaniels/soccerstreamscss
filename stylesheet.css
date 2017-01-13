@@ -17,6 +17,12 @@
     display:none;
 }
 
+#subButtons-soccerstreamscss {
+	text-align: center;
+}
+span.subscribers, .users-online {
+	
+}
 a[href="#sd"]:after {
   width: 44px;
   height: 20px;
@@ -257,6 +263,7 @@ a[href="#audio"]:after {
   border: 0;
   display: inline-block;
   width: auto !important;
+  height: 24px;
   text-indent: -999em;
   line-height: 24px;
 }
@@ -267,392 +274,270 @@ a[href="#audio"]:after {
   height: 24px;
 }
 
-.linkflair-afcchampionsleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#afcchampionsleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 0;
+.linkflair-afcchampionsleague .linkflairlabel, a[href="#afcchampionsleague"] {
+  background-position: 0 0!important;
 }
 
-.linkflair-aleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#aleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -24px;
+.linkflair-aleague .linkflairlabel, a[href="#aleague"] {
+  background-position: 0 -24px!important;
 }
 
-.linkflair-bundesliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#bundesliga"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -48px;
+.linkflair-bundesliga .linkflairlabel, a[href="#bundesliga"] {
+  background-position: 0 -48px!important;
 }
 
-.linkflair-championscup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#championscup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -72px;
+.linkflair-championscup .linkflairlabel, a[href="#championscup"] {
+  background-position: 0 -72px!important;
 }
 
-.linkflair-championship .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#championship"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -96px;
+.linkflair-championship .linkflairlabel, a[href="#championship"] {
+  background-position: 0 -96px!important;
 }
 
-.linkflair-championsleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#championsleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -120px;
+.linkflair-championsleague .linkflairlabel, a[href="#championsleague"] {
+  background-position: 0 -120px!important;
 }
 
-.linkflair-chinesesuperleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#chinesesuperleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -144px;
+.linkflair-chinesesuperleague .linkflairlabel, a[href="#chinesesuperleague"] {
+  background-position: 0 -144px!important;
 }
 
-.linkflair-clubworldcup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#clubworldcup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -168px;
+.linkflair-clubworldcup .linkflairlabel, a[href="#clubworldcup"] {
+  background-position: 0 -168px!important;
 }
 
-.linkflair-communityshield .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#communityshield"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -192px;
+.linkflair-communityshield .linkflairlabel, a[href="#communityshield"] {
+  background-position: 0 -192px!important;
 }
 
-.linkflair-copaamerica .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#copaamerica"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -216px;
+.linkflair-copaamerica .linkflairlabel, a[href="#copaamerica"] {
+  background-position: 0 -216px!important;
 }
 
-.linkflair-copadelrey .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#copadelrey"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -240px;
+.linkflair-copadelrey .linkflairlabel, a[href="#copadelrey"] {
+  background-position: 0 -240px!important;
 }
 
-.linkflair-copalibertadores .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#copalibertadores"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -264px;
+.linkflair-copalibertadores .linkflairlabel, a[href="#copalibertadores"] {
+  background-position: 0 -264px!important;
 }
 
-.linkflair-coppaitalia .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#coppaitalia"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -288px;
+.linkflair-coppaitalia .linkflairlabel, a[href="#coppaitalia"] {
+  background-position: 0 -288px!important;
 }
 
-.linkflair-coupedefrance .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#coupedefrance"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -312px;
+.linkflair-coupedefrance .linkflairlabel, a[href="#coupedefrance"] {
+  background-position: 0 -312px!important;
 }
 
-.linkflair-dfbpokal .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#dfbpokal"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -336px;
+.linkflair-dfbpokal .linkflairlabel, a[href="#dfbpokal"] {
+  background-position: 0 -336px!important;
 }
 
-.linkflair-dflsupercup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#dflsupercup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -360px;
+.linkflair-dflsupercup .linkflairlabel, a[href="#dflsupercup"] {
+  background-position: 0 -360px!important;
 }
 
-.linkflair-eredivisie .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#eredivisie"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -384px;
+.linkflair-eredivisie .linkflairlabel, a[href="#eredivisie"] {
+  background-position: 0 -384px!important;
 }
 
-.linkflair-europa .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#europa"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -408px;
+.linkflair-europa .linkflairlabel, a[href="#europa"] {
+  background-position: 0 -408px!important;
 }
 
-.linkflair-euros .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#euros"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -432px;
+.linkflair-euros .linkflairlabel, a[href="#euros"] {
+  background-position: 0 -432px!important;
 }
 
-.linkflair-facup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#facup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -456px;
+.linkflair-facup .linkflairlabel, a[href="#facup"] {
+  background-position: 0 -456px!important;
 }
 
-.linkflair-indiansuperleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#indiansuperleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -480px;
+.linkflair-indiansuperleague .linkflairlabel, a[href="#indiansuperleague"] {
+  background-position: 0 -480px!important;
 }
 
-.linkflair-internationalfriendlies .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#internationalfriendlies"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -504px;
+.linkflair-internationalfriendlies .linkflairlabel, a[href="#internationalfriendlies"] {
+  background-position: 0 -504px!important;
 }
 
-.linkflair-jleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#jleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -528px;
+.linkflair-jleague .linkflairlabel, a[href="#jleague"] {
+  background-position: 0 -528px!important;
 }
 
-.linkflair-laliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#laliga"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -552px;
+.linkflair-laliga .linkflairlabel, a[href="#laliga"] {
+  background-position: 0 -552px!important;
 }
 
-.linkflair-ligue1 .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#ligue1"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -576px;
+.linkflair-ligue1 .linkflairlabel, a[href="#ligue1"] {
+
+  background-position: 0 -576px!important;
 }
 
-.linkflair-mls .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#mls"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -600px;
+.linkflair-mls .linkflairlabel, a[href="#mls"] {
+
+  background-position: 0 -600px!important;
 }
 
-.linkflair-nasl .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#nas1"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -624px;
+.linkflair-nasl .linkflairlabel, a[href="#nas1"] {
+  background-position: 0 -624px!important;
 }
 
-.linkflair-olympics .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#olympics"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -648px;
+.linkflair-olympics .linkflairlabel, a[href="#olympics"] {
+  background-position: 0 -648px!important;
 }
 
-.linkflair-premierleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#premierleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -672px;
+.linkflair-premierleague .linkflairlabel, a[href="#premierleague"] {
+  background-position: 0 -672px!important;
 }
 
-.linkflair-premjerliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#premjerliga"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -696px;
+.linkflair-premjerliga .linkflairlabel, a[href="#premjerliga"] {
+  background-position: 0 -696px!important;
 }
 
-.linkflair-primeraliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#primeraliga"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -720px;
+.linkflair-primeraliga .linkflairlabel, a[href="#primeraliga"] {
+  background-position: 0 -720px!important;
 }
 
-.linkflair-scottishpremierleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#scottishpremierleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -744px;
+.linkflair-scottishpremierleague .linkflairlabel, a[href="#scottishpremierleague"] {
+  background-position: 0 -744px!important;
 }
 
-.linkflair-seriea .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#seriea"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -768px;
+.linkflair-seriea .linkflairlabel, a[href="#seriea"] {
+  background-position: 0 -768px!important;
 }
 
-.linkflair-swisssuperleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#swisssuperleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -792px;
+.linkflair-swisssuperleague .linkflairlabel, a[href="#swisssuperleague"] {
+  background-position: 0 -792px!important;
 }
 
-.linkflair-turkishsuperlig .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#turkishsuperlig"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -816px;
+.linkflair-turkishsuperlig .linkflairlabel, a[href="#turkishsuperlig"] {
+  background-position: 0 -816px!important;
 }
 
-.linkflair-uefasupercup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#uefasupercup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -840px;
+.linkflair-uefasupercup .linkflairlabel, a[href="#uefasupercup"] {
+  background-position: 0 -840px!important;
 }
 
 .linkflair-generic .linkflairlabel {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -864px;
+  background-position: 0 -864px!important;
 }
 
-.linkflair-fifa .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#fifa"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -912px;
+.linkflair-fifa .linkflairlabel, a[href="#fifa"] {
+  background-position: 0 -912px!important;
 }
 
-.linkflair-uefa .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#uefa"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -936px;
+.linkflair-uefa .linkflairlabel, a[href="#uefa"] {
+  background-position: 0 -936px!important;
 }
 
-.linkflair-concacaf .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#concacaf"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -960px;
+.linkflair-concacaf .linkflairlabel, a[href="#concacaf"] {
+  background-position: 0 -960px!important;
 }
 
-.linkflair-conmebol .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#conmebol"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -984px;
+.linkflair-conmebol .linkflairlabel, a[href="#conmebol"] {
+  background-position: 0 -984px!important;
 }
 
-.linkflair-afc .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#afc"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1008px;
+.linkflair-afc .linkflairlabel, a[href="#afc"] {
+  background-position: 0 -1008px!important;
 }
 
-.linkflair-caf .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#caf"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1032px;
+.linkflair-caf .linkflairlabel, a[href="#caf"] {
+  background-position: 0 -1032px!important;
 }
 
-.linkflair-ofc .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#ofc"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1056px;
+.linkflair-ofc .linkflairlabel, a[href="#ofc"] {
+  background-position: 0 -1056px!important;
 }
 
-.linkflair-frligue2 .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#frligue2"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1080px;
+.linkflair-frligue2 .linkflairlabel, a[href="#frligue2"] {
+  background-position: 0 -1080px!important;
 }
 
-.linkflair-rusprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#rusprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1104px;
+.linkflair-rusprem .linkflairlabel, a[href="#rusprem"] {
+  background-position: 0 -1104px!important;
 }
 
-.linkflair-ukrprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#ukrprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1128px;
+.linkflair-ukrprem .linkflairlabel, a[href="#ukrprem"] {
+  background-position: 0 -1128px!important;
 }
 
-.linkflair-itaserieb .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#itaserieb"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1152px;
+.linkflair-itaserieb .linkflairlabel, a[href="#itaserieb"] {
+  background-position: 0 -1152px!important;
 }
 
-.linkflair-gresupleague .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#gresupleague"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1176px;
+.linkflair-gresupleague .linkflairlabel, a[href="#gresupleague"] {
+  background-position: 0 -1176px!important;
 }
 
-.linkflair-croprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#croprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1200px;
+.linkflair-croprem .linkflairlabel, a[href="#croprem"] {
+  background-position: 0 -1200px!important;
 }
 
-.linkflair-autbundesliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#autbundesliga"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1224px;
+.linkflair-autbundesliga .linkflairlabel, a[href="#autbundesliga"] {
+  background-position: 0 -1224px!important;
 }
 
-.linkflair-allsvenskan .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#allsvenskan"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1248px;
+.linkflair-allsvenskan .linkflairlabel, a[href="#allsvenskan"] {
+  background-position: 0 -1248px!important;
 }
 
-.linkflair-densuperliga .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#densuperliga"] {
-    width: 24px;
-    height: 24px;
-    background-position: 0 -1272px;
+.linkflair-densuperliga .linkflairlabel, a[href="#densuperliga"] {
+  background-position: 0 -1272px!important;
 }
 
-.linkflair-tippeligaen .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#tippeligaen"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1296px;
+.linkflair-tippeligaen .linkflairlabel, a[href="#tippeligaen"] {
+  background-position: 0 -1296px!important;
 }
 
-.linkflair-extraklasa .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#extraklasa"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1320px;
+.linkflair-extraklasa .linkflairlabel, a[href="#extraklasa"] {
+  background-position: 0 -1320px!important;
 }
 
-.linkflair-ligamx .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#ligamx"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1344px;
+.linkflair-ligamx .linkflairlabel, a[href="#ligamx"] {
+  background-position: 0 -1344px!important;
 }
 
-.linkflair-chiprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#chiprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1368px;
+.linkflair-chiprem .linkflairlabel, a[href="#chiprem"] {
+  background-position: 0 -1368px!important;
 }
 
-.linkflair-argprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#argprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1392px;
+.linkflair-argprem .linkflairlabel, a[href="#argprem"] {
+  background-position: 0 -1392px!important;
 }
 
-.linkflair-romliga1 .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#romliga1"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1416px;
+.linkflair-romliga1 .linkflairlabel, a[href="#romliga1"] {
+  background-position: 0 -1416px!important;
 }
 
-.linkflair-braseriea .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#braseriea"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1440px;
+.linkflair-braseriea .linkflairlabel, a[href="#braseriea"] {
+  background-position: 0 -1440px!important;
 }
 
-.linkflair-bolprof .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#bolprof"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1464px;
+.linkflair-bolprof .linkflairlabel, a[href="#bolprof"] {
+  background-position: 0 -1464px!important;
 }
 
-.linkflair-crcprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#crcprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1488px;
+.linkflair-crcprem .linkflairlabel, a[href="#crcprem"] {
+  background-position: 0 -1488px!important;
 }
 
-.linkflair-uruprem .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#uruprem"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1512px;
+.linkflair-uruprem .linkflairlabel, a[href="#uruprem"] {
+  background-position: 0 -1512px!important;
 }
 
-.linkflair-beljup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#beljup"] {
-  width: 24px;
-  height: 24px;
-  background-position: 0 -1536px;
+.linkflair-beljup .linkflairlabel, a[href="#beljup"] {
+  background-position: 0 -1536px!important;
+}
+
+.linkflair-eflcup .linkflairlabel, a[href="#eflcup"] {
+  background-position: 0 -1584px!important;
 }
 
 .linkflair-mod .linkflairlabel {
-  background-position: 0 -1561px;
+  background-position: 0 -1561px!important;
   height:24px;
   width:24px;
   margin-top: 1px;
@@ -664,17 +549,10 @@ a[href="#audio"]:after {
   margin-top: 1px;
 }
 
-.linkflair-eflcup .linkflairlabel, .side .md table tbody tr td:nth-of-type(1) a[href="#eflcup"] {
-  background-position: 0 -1584px;
-  height:24px;
-  width:24px;
-}
-
 .thing .title {
   display: flex;
   align-items: center;
 }
-
 
 .linkflairlabel {
   box-sizing: border-box;
@@ -1063,9 +941,13 @@ height: 1px;
   top: -1px;
 }
 
-/* RES DROPDOWN */
+/* RES */
 .RESDropdownList {
   top: 165!important;
+}
+
+.fancy-toggle-button .add, .res .RESshortcutside, .res .RESDashboardToggle {
+	
 }
 
 /* RULES HOVER */
