@@ -1560,3 +1560,31 @@ a[href="#sprite4-paraguay"]{background-position:96% 64%} /* Paraguay */
 a[href="#sprite4-uruguay"]{background-position:96% 68%} /* Uruguay */
 a[href="#sprite4-southafrica"]{background-position:96% 80%} /* South Africa */
 a[href="#sprite4-kenya"]{background-position:96% 88%} /* Kenya */
+
+/* SIDEBAR POSITION ARRANGEMENTS */
+
+.morelink {
+  position: relative;
+  top: 115px;
+}
+
+.titlebox .md h3:nth-of-type(-n+3) {
+  position: relative;
+  top: -159px;
+  left: 1px;
+}
+
+.side .md table {
+  position: relative;
+  top: -105px;
+}
+
+span.subscribers, .users-online, .side .titlebox .tagline, .res .RESshortcutside, .res .RESDashboardToggle {
+  position: relative;
+  top: 442px;
+}
+
+.side .titlebox .tagline {
+  text-align: center;
+  margin-left: 0px;
+}
