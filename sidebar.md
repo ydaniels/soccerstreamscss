@@ -69,36 +69,43 @@
 
 > Match threads will be taken down after the game is over to keep the sub clutter-free.
 
+
 COMP | MATCH
 :---:|:----:
-[](#premierleague) | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#internationalfriendlies) | *Chile vs Croatia* **[LIVE](http://reddit.com)  52' 0-3**
-[](#premierleague)  | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#premierleague)  | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#premierleague)  | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#premierleague)  | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#premierleague) | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-[](#premierleague) | *Southampton vs Liverpool* **Wed 11 Jan, 14:45 GMT**
-
-######Current Time 12:35 GMT
+[](#copadelrey) | *[](#sprite2-spa-realsociedad) Real Sociedad vs Barcelona [](#sprite2-spa-barcelona)* **Thu 19 Jan, 20:15 GMT**
+[](#copadelrey) | *[](#sprite2-spa-atleticomadrid) Atlético Madrid vs Eibar [](#sprite2-spa-eibar)* **Thu 19 Jan, 18:15 GMT**
+[](#africacupofnations) | *[](#sprite4-algeria) Algeria vs Tunisia [](#sprite4-tunisia)* **Thu 19 Jan, 16:00 GMT**
+[](#africacupofnations) | *[](#sprite4-senegal) Senegal vs Zimbabwe [](#sprite4-zimbabwe)* **Thu 19 Jan, 19:00 GMT**
+[](#coppaitalia) | *[](#sprite2-ita-roma) Roma vs Sampdoria [](#sprite2-ita-sampdoria)* **Thu 19 Jan, 20:00 GMT**
 
 ###SPORTS STREAMING NETWORK
 * /r/MotorSportStreams
-* /r/NFLstreams 
-* /r/NHLstreams 
-* /r/NBAstreams 
-* /r/MLBStreams 
+* /r/NFLstreams
+* /r/NHLstreams
+* /r/NBAstreams
+* /r/MLBStreams
 * /r/TennisStreams
-* /r/NCAABBallStreams 
-* /r/CFBstreams    
-* /r/WWEstreams 
-* /r/MMAStreams 
+* /r/NCAABBallStreams
+* /r/CFBstreams
+* /r/WWEstreams
+* /r/MMAStreams
 * /r/BoxingStreams
 * /r/RugbyStreams
 
 ###SOCCER SUBREDDITS
-* /r/Soccer 
-* /r/Football 
-* /r/Futbol 
-* /r/FootballHighlights 
+* /r/Soccer
+* /r/Football
+* /r/Futbol
+* /r/FootballHighlights
 * /r/FootballDownload
+
+
+#[Message the Mods](https://www.reddit.com/message/compose?to=%2Fr%2Fsoccerstreams)
+
+[NIGHT MODE](http://nm.reddit.com/r/soccerstreams/#nm)
+
+[NORMAL](http://reddit.com/r/soccerstreams/#dm)
+
+[WIKI](https://www.reddit.com/r/soccerstreams/wiki/index#button)
+
+1. 23:45 GMT

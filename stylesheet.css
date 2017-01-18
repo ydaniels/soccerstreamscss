@@ -215,7 +215,6 @@ a[href="#audio"]:after {
 
 .side .md > ol:last-child li:hover {
   background: #96803F
-  cursor:pointer;
 }
 
 .side .md>ol:last-child li:first-child {
@@ -228,7 +227,8 @@ a[href="#audio"]:after {
   background: #B3994C;
   color: #fff!important; 
   line-height: 1.5;
-  padding: 8 0;
+  padding: 0 6px;
+  text-transform: uppercase;
 }
 .side .md > ol:last-child li ~ li {
   padding: 0 4px;
