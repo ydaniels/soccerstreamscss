@@ -79,26 +79,42 @@ COMP | MATCH
 [](#coppaitalia) | *[](#sprite2-ita-roma) Roma vs Sampdoria [](#sprite2-ita-sampdoria)* **Thu 19 Jan, 20:00 GMT**
 
 ###SPORTS STREAMING NETWORK
-* /r/MotorSportStreams
-* /r/NFLstreams
-* /r/NHLstreams
-* /r/NBAstreams
-* /r/MLBStreams
-* /r/TennisStreams
-* /r/NCAABBallStreams
-* /r/CFBstreams
-* /r/WWEstreams
-* /r/MMAStreams
-* /r/BoxingStreams
-* /r/RugbyStreams
+
+> /r/MotorSportStreams
+
+> /r/NFLstreams
+
+> /r/NHLstreams
+
+> /r/NBAstreams
+
+> /r/MLBStreams
+
+> /r/TennisStreams
+
+> /r/NCAABBallStreams
+
+> /r/CFBstreams
+
+> /r/WWEstreams
+
+> /r/MMAStreams
+
+> /r/BoxingStreams
+
+> /r/RugbyStreams
 
 ###SOCCER SUBREDDITS
-* /r/Soccer
-* /r/Football
-* /r/Futbol
-* /r/FootballHighlights
-* /r/FootballDownload
 
+> /r/Soccer
+
+> /r/Football
+
+> /r/Futbol
+
+> /r/FootballHighlights
+
+> /r/FootballDownload
 
 #[Message the Mods](https://www.reddit.com/message/compose?to=%2Fr%2Fsoccerstreams)
 
