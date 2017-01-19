@@ -970,6 +970,9 @@ height: 1px;
   width: 300px;
   z-index: 99;
 }
+.side .md h3+blockquote:nth-of-type(n+4) {
+  top: 793px;
+}
 .side .md h3+blockquote p::before {
   background: #B3994C;
   border-radius: 2px;
